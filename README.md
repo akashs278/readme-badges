@@ -1,1 +1,1 @@
-# -markdown-badges
+# markdown-badges
