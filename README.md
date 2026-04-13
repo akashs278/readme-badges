@@ -5,6 +5,14 @@
 A clean, modern collection of ready-to-use badges for your GitHub README.  
 Copy, paste, and make your profile or project stand out instantly 🚀
 
+![GitHub Repo Stars](https://img.shields.io/github/stars/akashs278/readme-badges?style=flat-square)
+![GitHub Forks](https://img.shields.io/github/forks/akashs278/readme-badges?style=flat-square)
+![GitHub License](https://img.shields.io/github/license/akashs278/readme-badges?style=flat-square&color=blue)
+
+
+
+
+
 </div>
 
 ---
