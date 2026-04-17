@@ -2,8 +2,8 @@
 
 | Name | Badge | Markdown |
 | ---- | ----- | -------- |
-| C            | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=black)                              | `![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)`                              |
-| C++          | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)                | `![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)`                |
+| C            | ![C](https://img.shields.io/badge/-A8B9CC?style=flat\&logo=c\&logoColor=black)                              | `![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)`                              |
+| C++          | ![C++](https://img.shields.io/badge/-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)                | `![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)`                |
 | Python       | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)               | `![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)`               |
 | Go           | ![GO](https://img.shields.io/badge/Go-00ADD8?style=flat\&logo=go\&logoColor=white)                           | `![GO](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)`                           |
 | Dart         | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat\&logo=dart\&logoColor=white)                     | `![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)`                     |
